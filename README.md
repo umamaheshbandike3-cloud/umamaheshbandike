@@ -48,8 +48,6 @@ ANN • CNN • RNN • LSTM • Computer Vision
 **Tools:**   
 Power BI • Tableau • Dashboards • Data Storytelling
 
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=jupyter,git,github" />
 ---
 
 ## 📜 Certifications
