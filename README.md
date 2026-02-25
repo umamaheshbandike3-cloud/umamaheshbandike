@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Developer;Always+Learning+New+Things&center=true&width=650&height=45">
 </p>
----
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 
 ## 🚀 About Me
 - 🎓 Passionate about **Machine Learning & AI**
@@ -15,6 +11,8 @@
 - 👁️ Working on **Computer Vision projects**
 - 🌱 Always learning and improving real-world ML solutions
 - 🎯 Goal: Become a professional **ML Engineer**
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
