@@ -23,21 +23,21 @@
 ### 👨‍💻 Programming & Query Languages
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
-**Coding Languages:** Python • SQL
+**Coding Languages:**   Python • SQL
 
 ---
 
 ### 🤖 Machine Learning
 <img src="https://skillicons.dev/icons?i=sklearn" />
 
-**Models:** Logistic Regression • Random Forest • SVM • XGBoost • LightGBM
+**Models:**   Logistic Regression • Random Forest • SVM • XGBoost • LightGBM
 
 ---
 
 ### 🧠 Deep Learning & Computer Vision
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-**Models:** ANN • CNN • RNN • LSTM • Computer Vision
+**Models:**   ANN • CNN • RNN • LSTM • Computer Vision
 
 ---
 
@@ -45,7 +45,7 @@
 <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
 
-**Tools:** Power BI • Tableau • Dashboards • Data Storytelling
+**Tools:**   Power BI • Tableau • Dashboards • Data Storytelling
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=jupyter,git,github" />
