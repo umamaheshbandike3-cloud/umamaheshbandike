@@ -36,7 +36,6 @@ ANN • CNN • RNN • LSTM • Computer Vision
 </p>
 
 ### 📈 Visualization & BI Tools
-<img src="https://skillicons.dev/icons?i=excel" />
 <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
 <p>
