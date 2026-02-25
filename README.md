@@ -100,7 +100,9 @@ Power BI • Tableau • Dashboards • Data Storytelling
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamaheshbandike&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -120,6 +122,8 @@ Power BI • Tableau • Dashboards • Data Storytelling
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+---
 
 📧 **Email:** umamaheshbandike3@gmail.com  
 📱 **Mobile:** +91 7997843067  
