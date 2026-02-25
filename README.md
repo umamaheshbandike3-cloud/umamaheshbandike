@@ -45,8 +45,7 @@ ANN • CNN • RNN • LSTM • Computer Vision
 ---
 
 ### 📈 Visualization & BI Tools
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/> <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
 
 **Tools:**   
 Power BI • Tableau • Dashboards • Data Storytelling
