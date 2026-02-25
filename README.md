@@ -22,47 +22,76 @@
 
 ### 👨‍💻 Programming & Query Languages
 <img src="https://skillicons.dev/icons?i=python,mysql" />
+**Coading Languages:**  Python • SQL
 
 ### 🤖 Machine Learning
 <img src="https://skillicons.dev/icons?i=sklearn" />
 <p>
-Logistic Regression • Random Forest • SVM • XGBoost • LightGBM
+**Model:** Logistic Regression • Random Forest • SVM • XGBoost • LightGBM
 </p>
 
 ### 🧠 Deep Learning & Computer Vision
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 <p>
-ANN • CNN • RNN • LSTM • Computer Vision
+**Models:** ANN • CNN • RNN • LSTM • Computer Vision
 </p>
 
 ### 📈 Visualization & BI Tools
 <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
 <p>
-Power BI • Tableau • Dashboards • Data Storytelling
+**Tools:** Power BI • Tableau • Dashboards • Data Storytelling
 </p>
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=jupyter,git,github" />
 ---
 
----
+## 📜 Certifications
 
-## 📌 Featured Projects
-- 🔹 **Loan Amount Prediction** – ML-based loan eligibility system  
-- 🔹 **Heart Disease Prediction** – Medical risk prediction using ML  
-- 🔹 **Rice Leaf Disease Detection** – Image classification using CNN  
-- 🔹 **Employee Performance Prediction** – Data-driven performance analysis  
+🏅 Artificial Intelligence Expert – IABAC (2026)  
+🏅 Data Science Foundation – IABAC (2026)
+🏅 Artificial Intelligence Expert – nasscom IT-ITeS SSC (2026)  
 
 ---
+
+
+## 🚀 Featured Projects
+
+🫀 **Heart Disease Prediction**
+- Built ML classification models using clinical datasets
+- Applied feature scaling & hyperparameter tuning
+- Evaluated using Accuracy, Precision, Recall & F1-score
+
+💰 **Loan Default Prediction**
+- Performed EDA & Feature Engineering on financial data
+- Handled class imbalance using SMOTE
+- Achieved high accuracy using XGBoost
+
+👨‍💼 **Employee Performance Prediction**
+- Compared Logistic Regression, SVM, Random Forest & LightGBM
+- Used PCA for feature selection
+- Built predictive analytics model using HR dataset
+
+🌾 **Rice Leaf Disease Detection (CNN)**
+- Designed CNN model for image classification
+- Applied image preprocessing & augmentation
+- Improved accuracy with hyperparameter tuning
+---
+
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umamaheshbandike3&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umamaheshbandike3&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umamaheshbandike3&layout=compact&theme=tokyonight" />
 </p>
 
 ---
