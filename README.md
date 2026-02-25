@@ -57,8 +57,8 @@ Power BI • Tableau • Dashboards • Data Storytelling
 ## 📜 Certifications
 
 🏅 Artificial Intelligence Expert – IABAC (2026)  
-🏅 Data Science Foundation – IABAC (2026)
-🏅 Artificial Intelligence Expert – nasscom IT-ITeS SSC (2026)  
+🏅 Data Science Foundation – IABAC (2026)  
+🏅 Artificial Intelligence Expert – nasscom IT-ITeS SSC (2026)   
 
 ---
 
