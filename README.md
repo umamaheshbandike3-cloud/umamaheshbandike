@@ -35,14 +35,10 @@ Logistic Regression • Random Forest • SVM • XGBoost • LightGBM
 ANN • CNN • RNN • LSTM • Computer Vision
 </p>
 
-### 📊 Data Analysis
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-<p>
-EDA • Feature Engineering • PCA • Statistical Analysis • Data Preprocessing
-</p>
-
 ### 📈 Visualization & BI Tools
 <img src="https://skillicons.dev/icons?i=excel" />
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
 <p>
 Power BI • Tableau • Dashboards • Data Storytelling
 </p>
