@@ -5,10 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Developer;Always+Learning+New+Things&center=true&width=650&height=45">
 </p>
 
+## 🚀 About Me ## 
+
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-
-## 🚀 About Me ## 
 - 🎓 Passionate about **Machine Learning & AI**
 - 📊 Strong in **Data Analysis & Predictive Modeling**
 - 👁️ Working on **Computer Vision projects**
