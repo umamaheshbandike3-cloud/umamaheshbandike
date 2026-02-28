@@ -7,7 +7,8 @@
 
 ## 🚀 About Me ## 
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img 
+  align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Passionate about **Machine Learning & AI**
 - 📊 Strong in **Data Analysis & Predictive Modeling**
