@@ -117,3 +117,6 @@ Power BI • Tableau • Dashboards • Data Storytelling
 📧 **Email:** umamaheshbandike3@gmail.com  
 📱 **Mobile:** +91 7997843067  
 🔗 **LinkedIn:** [Mahesh Bandike](https://www.linkedin.com/in/maheshbandike)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Naukri_Logo.png" height="18" />
+<b>Naukri:</b> https://www.naukri.com/mnjuser/profile
+</a>
